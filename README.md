@@ -1,4 +1,4 @@
-# <div align="center">AI Grammar Checker</div>
+# <div align="center">AI Grammar Checker - English/Chinese Translator</div>
 
 ## Description
 
