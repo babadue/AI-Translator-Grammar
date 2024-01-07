@@ -13,7 +13,9 @@
 Scenarios with 3 special prompts:  
 
 https://chat.openai.com/share/7c2a1b87-9590-4b8f-9f5f-d4d68b21d7b8
+
 https://chat.openai.com/share/793ed51e-fbdf-42b6-a491-4cb5105e7f27
+
 https://chat.openai.com/share/5d82532a-dbc7-4daf-914a-a2b26d1d75b4
 https://chat.openai.com/share/0bb3421c-9669-4397-9df5-d0a578c47848
 https://chat.openai.com/share/6add5b84-1962-4167-9d23-52f9c161442d
