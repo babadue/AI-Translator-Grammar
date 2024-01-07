@@ -55,12 +55,6 @@ https://chat.openai.com/share/d14e4145-9711-40a6-9b8b-286c1fad483b
 
 https://chat.openai.com/share/cc42d152-8890-4850-885e-5380d4e9c5af
 
-[abc](https://chat.openai.com/share/cc42d152-8890-4850-885e-5380d4e9c5af){:target="_blank"}
-
-[https://chat.openai.com/share/cc42d152-8890-4850-885e-5380d4e9c5af](https://chat.openai.com/share/cc42d152-8890-4850-885e-5380d4e9c5af)
-
-<a href="https://chat.openai.com/share/cc42d152-8890-4850-885e-5380d4e9c5af" target="_blank">https://chat.openai.com/share/cc42d152-8890-4850-885e-5380d4e9c5af</a>
-
 
 ## Final Analysis:
 
