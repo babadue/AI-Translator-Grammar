@@ -2,13 +2,13 @@
 
 ## Description
 
-    Can I 革命 the chicken?
+    Can I manage to 革命 the chicken?
 
 ## Purposes
 
-    To find out if I can 革命 the chicken!
+    To find out if I can manage to 革命 the chicken!
 
-## Experimentation Description:
+## Experimentation and Results:
 
 Scenarios with 3 special prompts:  
 
